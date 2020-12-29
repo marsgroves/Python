@@ -7,14 +7,14 @@
     The process of replacing a manual step with one that happens automatically.
 
 ## 3. Which of the following tasks are good candidates for automation?
-    - Creating a report of how much each sales person has sold in the last month.
-    - Setting the home directory and access permissions for new employees joining your company.
-    - Populating your company's e-commerce site with the latest products in the catalog.
+    ● Creating a report of how much each sales person has sold in the last month.
+    ● Setting the home directory and access permissions for new employees joining your company.
+    ● Populating your company's e-commerce site with the latest products in the catalog.
 
 ## 4. What are some characteristics of the Python programming language?
-    - Python programs are easy to write and understand.
-    - The Python interpreter reads our code and transforms it into computer instructions.
-    - We can practice Python using web interpreters or codepads as well as executing it locally. 
+    ● Python programs are easy to write and understand.
+    ● The Python interpreter reads our code and transforms it into computer instructions.
+    ● We can practice Python using web interpreters or codepads as well as executing it locally. 
 
 ## 5. How does Python compare to other programming languages?
     Each programming language has its advantages and disadvantages.
