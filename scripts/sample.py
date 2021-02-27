@@ -10,5 +10,5 @@ num2 = 6.3
 sum = num1 + num2
 
 # Display the sum
-print()
+print('')
 ```
