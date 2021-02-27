@@ -10,5 +10,5 @@ num2 = 6.3
 sum = num1 + num2
 
 # Display the sum
-print('The sum of {0} and {1} is')
+print('The sum of {0} and {1} is {2}'.)
 ```
