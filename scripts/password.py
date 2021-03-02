@@ -10,7 +10,7 @@ def password_check(passwd):
     val = True
       
     if len(passwd) < 6: 
-        print('length should be at least 6') 
+        print
         val = False
           
     if len(passwd) > 20: 
