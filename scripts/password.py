@@ -35,7 +35,7 @@ def password_check(passwd):
     if val: 
         return val
         
-def password_check(passwd): 
+def password_check
       
     SpecialSym =['$', '@', '#', '%'] 
     val = True
