@@ -4,7 +4,7 @@ def apasswordcheker(password_checkers):
     if password == "pa55w0rd":
         print("Congrats! You figured out the secret password!")
 
-(passwd): 
+def password_check(passwd): 
       
     SpecialSym =['$', '@', '#', '%'] 
     val = True
