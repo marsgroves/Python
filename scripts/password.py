@@ -1,6 +1,6 @@
 secret_password = "pa55w0rd"
 
-def apasswordcheker(password_checkers):
+def apasswordcheker
     if password == "pa55w0rd":
         print("Congrats! You figured out the secret password!")
 
