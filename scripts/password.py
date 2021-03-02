@@ -6,7 +6,7 @@ def apasswordcheker(password_checkers):
 
 def password_check(passwd): 
       
-    SpecialSym =
+    SpecialSym =['$', '@', '#', '%'] 
     val = True
       
     if len(passwd) < 6: 
