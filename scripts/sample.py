@@ -1,4 +1,4 @@
-# Sample Python scripts
+# Smple Python scripts
 
 Example 1: Add Two Numbers
 ```# This program adds two numbers
