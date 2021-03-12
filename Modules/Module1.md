@@ -1,7 +1,7 @@
 # Module 1: Python
 
 ## 1. What is a computer program?
-    A step-by-step recipe of what needs to be done to complete a task, that gets executed by the computer.
+    A step-by-step recipe of what needs to be done to complete a task, that gets executed by the computer. :) 
 
 ## 2. What’s automation?
     The process of replacing a manual step with one that happens automatically.
