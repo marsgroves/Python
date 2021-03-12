@@ -106,7 +106,7 @@ while check == "FALSE":
  if user_password == groves:
     check = "TRUE"    
     print("Hello Detective Groves, the last file you accessed is: topsecret.txt")
- elif user_password == "pas55w0rd":
+ elif user_password == "p4ssw0rd*":
      print("Please dont look at the code to figure out the password")
 
  else:
