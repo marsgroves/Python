@@ -1,5 +1,5 @@
 # Sample Python scripts
-# Simple Addition
+# Simple Addition 
 
 Example 1: Add Two Numbers
 
