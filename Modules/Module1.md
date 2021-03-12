@@ -39,7 +39,8 @@
 ```python
     print(26**6)
 ```
-## 10. Most hard drives are divided into sectors of 512 bytes each.  Our disk has a size of 16 GB. Fill in the blank to calculate how many sectors the disk has.
+## 10. Most hard drives are divided into sectors of 512 bytes each.  
+Our disk has a size of 16 GB. Fill in the blank to calculate how many sectors the disk has.
 ```python
 disk_size = 16*1024*1024*1024
 sector_size = 512
