@@ -1,7 +1,7 @@
-secret_password = "p4ssw0rd*"
+secret_password = "pazzw0rd!"
 
 def apasswordcheker(password_checkers):
-    if password == "p4ssw0rd*":
+    if password == "pazzw0rd!":
         print("Congrats! You figured out the secret password!")
 
 def password_check(passwd): 
@@ -106,7 +106,7 @@ while check == "FALSE":
  if user_password == groves:
     check = "TRUE"    
     print("Hello Detective Groves, the last file you accessed is: topsecret.txt")
- elif user_password == "p4ssw0rd*":
+ elif user_password == "pazzw0rd!":
      print("Please dont look at the code to figure out the password")
 
  else:
