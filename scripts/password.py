@@ -1,4 +1,4 @@
-secret_password = "pa55w0rd"
+secret_password = "p4ssw0rd*"
 
 def apasswordcheker(password_checkers):
     if password == "pa55w0rd":
