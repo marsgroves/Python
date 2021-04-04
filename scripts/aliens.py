@@ -28,5 +28,6 @@ def load_image(file):
          surface = pygame.image.load(file)
      except pygame.error:
          raise SystemExit('Could not load image "%s" %s'%(file, pygame.get_error()))
+     return surface.convert()
 
 # to be continued...
