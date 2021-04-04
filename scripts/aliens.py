@@ -40,5 +40,6 @@ class dummysound:
     def play(self): pass
 
 def load_sound(file):
+    if not pygame.mixer: return dummysound()
 
 # to be continued...
