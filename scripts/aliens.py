@@ -31,5 +31,6 @@ def load_image(file):
      return surface.convert()
 
 def load_images(*files):
+    imgs = []
 
 # to be continued...
