@@ -25,5 +25,6 @@ def load_image(file):
      "loads an image, prepares it for play"
      file = os.path.join(main_dir, 'data', file)
      try:
+         surface = pygame.image.load(file)
 
 # to be continued...
