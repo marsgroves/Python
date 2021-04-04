@@ -18,3 +18,5 @@ BOMB_ODDS      = 69    #chances a new bomb will drop
 ALIEN_RELOAD   = 12     #frames between new aliens
 SCREENRECT     = Rect(0, 0, 640, 480)
 SCORE          = 0
+
+main_dir = os.path.split(os.path.abspath(__file__))[0]
