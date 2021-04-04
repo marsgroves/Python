@@ -21,4 +21,6 @@ SCORE          = 0
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
 
+def load_image(file):
+
 # to be continued...
