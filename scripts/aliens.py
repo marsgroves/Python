@@ -44,5 +44,6 @@ def load_sound(file):
     file = os.path.join(main_dir, 'data', file)
     try:
         sound = pygame.mixer.Sound(file)
+        return sound
 
 # to be continued...
