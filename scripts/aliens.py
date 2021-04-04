@@ -36,4 +36,6 @@ def load_images(*files):
         imgs.append(load_image(file))
     return imgs
 
+class dummysound:
+
 # to be continued...
