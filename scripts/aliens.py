@@ -20,3 +20,5 @@ SCREENRECT     = Rect(0, 0, 640, 480)
 SCORE          = 0
 
 main_dir = os.path.split(os.path.abspath(__file__))[0]
+
+# to be continued...
