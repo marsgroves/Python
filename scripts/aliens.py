@@ -47,5 +47,6 @@ def load_sound(file):
         return sound
     except pygame.error:
         print ('Warning, unable to load, %s' % file)
+    return dummysound()
 
 # to be continued...
