@@ -46,5 +46,6 @@ def load_sound(file):
         sound = pygame.mixer.Sound(file)
         return sound
     except pygame.error:
+        print ('Warning, unable to load, %s' % file)
 
 # to be continued...
