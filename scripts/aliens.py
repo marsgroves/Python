@@ -4,3 +4,4 @@ import random, os.path
 
 #import basic pygame modules
 import pygame
+from pygame.local import *
