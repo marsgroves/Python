@@ -42,5 +42,6 @@ class dummysound:
 def load_sound(file):
     if not pygame.mixer: return dummysound()
     file = os.path.join(main_dir, 'data', file)
+    try:
 
 # to be continued...
