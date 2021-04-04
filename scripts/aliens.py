@@ -39,4 +39,6 @@ def load_images(*files):
 class dummysound:
     def play(self): pass
 
+def load_sound(file):
+
 # to be continued...
