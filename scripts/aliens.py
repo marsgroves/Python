@@ -45,5 +45,6 @@ def load_sound(file):
     try:
         sound = pygame.mixer.Sound(file)
         return sound
+    except pygame.error:
 
 # to be continued...
