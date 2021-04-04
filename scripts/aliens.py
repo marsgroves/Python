@@ -33,5 +33,6 @@ def load_image(file):
 def load_images(*files):
     imgs = []
     for file in files:
+        imgs.append(load_image(file))
 
 # to be continued...
